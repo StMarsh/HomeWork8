@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="Students list RSS" option="View">
+        <message>
+            <fields name="request">
+                <fieldset  name="request">
+                    <field name="format" type="hidden" default="xml" />
+                </fieldset>
+            </fields>
+                        <![CDATA[Students list description]]>
+        </message>
+	</layout>
+</metadata>
