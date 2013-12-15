@@ -8,6 +8,8 @@
  */
 // no direct access
 defined('_JEXEC') or die;
+
+JHtml::_( 'behavior.formvalidation' );
 ?>
 
 

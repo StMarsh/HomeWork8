@@ -14,7 +14,7 @@ jimport('joomla.application.component.modelform');
 /**
  * Student_list model.
  */
-class Student_listModelForm extends JModelAdmin
+class Student_listModelForm extends JModelForm
 {
 
     private $input;
@@ -28,7 +28,7 @@ class Student_listModelForm extends JModelAdmin
     public function getForm($data = array(), $loadData = true)
     {
         // Get the form.
-        $form = $this->loadForm('com_student_list.form', 'form', array('control' => 'jform', 'load_data' => $loadData));
+        $form = $this->loadForm('', 'form', array('control' => 'jform', 'load_data' => $loadData));
         if (empty($form)) {
             return false;
         }

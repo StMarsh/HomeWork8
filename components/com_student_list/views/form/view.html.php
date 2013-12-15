@@ -10,12 +10,12 @@
 // No direct access
 defined('_JEXEC') or die;
 
-jimport('joomla.application.component.viewlegacy');
+jimport('joomla.application.component.view');
 
 /**
  * View to edit
  */
-class Student_listViewForm extends JViewLegacy {
+class Student_listViewForm extends JView {
 
 
     protected $item;
