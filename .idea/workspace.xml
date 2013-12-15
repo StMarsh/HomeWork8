@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c88fadf6-fe3f-4545-9008-c88314de72ff" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/com_student_list/views/form/tmpl/default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/com_student_list/views/form/tmpl/default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/com_student_list/models/form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/com_student_list/models/forms/form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/joomla8.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/marsh.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/com_student_list/views/form/view.html.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/com_student_list/controllers/form.php" afterPath="" />
+    </list>
+    <ignored path="joomla6.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="joomla6" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="form.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/components/com_student_list/models/form.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="43" column="29" selection-start="1269" selection-end="1273" vertical-scroll-proportion="0.0" vertical-offset="496" max-vertical-offset="2394">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="view.html.php" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/components/com_student_list/views/form/view.html.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="100" column="0" selection-start="2781" selection-end="2781" vertical-scroll-proportion="0.6630824" vertical-offset="1137" max-vertical-offset="1998">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="default.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/components/com_student_list/views/form/tmpl/default.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="11" column="31" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="1926">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="default.xml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/components/com_student_list/views/form/tmpl/default.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="15" column="34" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="540">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="view.html.php" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/components/com_users/views/login/view.html.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="72" column="36" selection-start="1719" selection-end="1719" vertical-scroll-proportion="0.1469534" vertical-offset="1083" max-vertical-offset="1944">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="default.xml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/components/com_student_list/views/table1/tmpl/default.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="24" column="0" selection-start="831" selection-end="831" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="540">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="default.xml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/components/com_student_list/views/table1form/tmpl/default.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="edit.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/administrator/components/com_student_list/views/table1/tmpl/edit.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="11" column="29" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="2304">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/components/com_student_list/controllers/rss.php" />
+        <option value="$PROJECT_DIR$/components/com_student_list/controller.php" />
+        <option value="$PROJECT_DIR$/components/com_student_list/student_list.php" />
+        <option value="$PROJECT_DIR$/components/com_student_list/views/rss/view.xmlіі.php" />
+        <option value="$PROJECT_DIR$/components/com_student_list/views/rss/view.rss.php" />
+        <option value="$PROJECT_DIR$/components/com_student_list/views/rss/view.html.php" />
+        <option value="$PROJECT_DIR$/components/com_student_list/models/rss.php" />
+        <option value="$PROJECT_DIR$/components/com_student_list/views/rss/tmpl/default.php" />
+        <option value="$PROJECT_DIR$/administrator/components/com_student_list/models/forms/table1.xml" />
+        <option value="$PROJECT_DIR$/components/com_student_list/models/forms/form.xml" />
+        <option value="$PROJECT_DIR$/components/com_student_list/controllers/form.php" />
+        <option value="$PROJECT_DIR$/components/com_student_list/models/form.php" />
+        <option value="$PROJECT_DIR$/components/com_student_list/views/form/view.html.php" />
+        <option value="$PROJECT_DIR$/components/com_student_list/views/form/tmpl/default.xml" />
+        <option value="$PROJECT_DIR$/components/com_student_list/views/form/tmpl/default.php" />
+        <option value="$PROJECT_DIR$/components/com_student_list/views/table1/tmpl/default.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1430" />
+    <option name="y" value="-4" />
+    <option name="width" value="1617" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components/com_student_list/views/form/tmpl" />
+      <recent name="$PROJECT_DIR$/components/com_student_list/views/form" />
+      <recent name="$PROJECT_DIR$/components/com_student_list/models" />
+      <recent name="$PROJECT_DIR$/components/com_student_list/views/Form/tmpl" />
+      <recent name="$PROJECT_DIR$/components/com_student_list/views/Form" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components/com_student_list/views/form/tmpl" />
+      <recent name="$PROJECT_DIR$/components/com_student_list/models" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c88fadf6-fe3f-4545-9008-c88314de72ff" name="Default" comment="" />
+      <created>1385145742131</created>
+      <updated>1385145742131</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1430" y="-4" width="1617" height="1055" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19752322" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/components/com_student_list/views/table1form/view.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="0" selection-start="2700" selection-end="2700" vertical-scroll-proportion="2.0487804" vertical-offset="0" max-vertical-offset="1872" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_student_list/views/table1/view.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1944" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_student_list/models/table1form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="41" selection-start="749" selection-end="765" vertical-scroll-proportion="-17.333334" vertical-offset="0" max-vertical-offset="4968" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_student_list/views/table1/view.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1476" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_users/views/login/tmpl/default_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1368" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_users/views/login/tmpl/default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="26" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0" vertical-offset="756" max-vertical-offset="1674" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_student_list/views/table1form/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="21" selection-start="1361" selection-end="1361" vertical-scroll-proportion="-1.8494624" vertical-offset="2484" max-vertical-offset="3438" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_student_list/views/form/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="31" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="1926">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_users/views/login/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="454" selection-end="454" vertical-scroll-proportion="0.25411764" vertical-offset="0" max-vertical-offset="850" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_student_list/views/form/tmpl/default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="34" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_student_list/models/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="29" selection-start="1269" selection-end="1273" vertical-scroll-proportion="0.0" vertical-offset="496" max-vertical-offset="2394">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_student_list/views/form/view.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="0" selection-start="2781" selection-end="2781" vertical-scroll-proportion="0.6630824" vertical-offset="1137" max-vertical-offset="1998">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_student_list/views/table1/tmpl/default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="831" selection-end="831" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_student_list/views/table1form/tmpl/default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="864">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_student_list/views/table1/tmpl/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="29" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="2304">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_users/views/login/view.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="36" selection-start="1719" selection-end="1719" vertical-scroll-proportion="0.1469534" vertical-offset="1083" max-vertical-offset="1944">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
