@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c88fadf6-fe3f-4545-9008-c88314de72ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/com_student_list/views/form/tmpl/default.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/com_student_list/views/form/tmpl/default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/com_student_list/models/form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/com_student_list/models/forms/form.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/joomla8.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/marsh.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/com_student_list/views/form/view.html.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/com_student_list/controllers/form.php" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/com_student_list/controllers/form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_student_list/views/form/tmpl/default.php" afterPath="$PROJECT_DIR$/components/com_student_list/views/form/tmpl/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_student_list/views/table1form/tmpl/default.xml" afterPath="$PROJECT_DIR$/components/com_student_list/views/table1form/tmpl/default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_student_list/models/form.php" afterPath="$PROJECT_DIR$/components/com_student_list/models/form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_student_list/views/form/view.html.php" afterPath="$PROJECT_DIR$/components/com_student_list/views/form/view.html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="joomla6.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,88 +29,66 @@
     <favorites_list name="joomla6" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="form.php" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/components/com_student_list/models/form.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="43" column="29" selection-start="1269" selection-end="1273" vertical-scroll-proportion="0.0" vertical-offset="496" max-vertical-offset="2394">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="view.html.php" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/components/com_student_list/views/form/view.html.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="100" column="0" selection-start="2781" selection-end="2781" vertical-scroll-proportion="0.6630824" vertical-offset="1137" max-vertical-offset="1998">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="default.php" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/components/com_student_list/views/form/tmpl/default.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="11" column="31" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="1926">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="default.xml" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/components/com_student_list/views/form/tmpl/default.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="15" column="34" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="540">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="view.html.php" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/components/com_users/views/login/view.html.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="72" column="36" selection-start="1719" selection-end="1719" vertical-scroll-proportion="0.1469534" vertical-offset="1083" max-vertical-offset="1944">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="default.xml" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/components/com_student_list/views/table1/tmpl/default.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="24" column="0" selection-start="831" selection-end="831" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="540">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="default.xml" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/components/com_student_list/views/table1form/tmpl/default.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="edit.php" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/administrator/components/com_student_list/views/table1/tmpl/edit.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="11" column="29" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="2304">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="form.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/com_student_list/models/form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="71" column="5" selection-start="1793" selection-end="1793" vertical-scroll-proportion="-27.703703" vertical-offset="530" max-vertical-offset="1458">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view.html.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/components/com_student_list/views/form/view.html.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="0" selection-start="816" selection-end="816" vertical-scroll-proportion="0.6590389" vertical-offset="0" max-vertical-offset="874">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/com_student_list/views/table1form/tmpl/default.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="234">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/com_student_list/views/form/tmpl/default.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="0" selection-start="1902" selection-end="1902" vertical-scroll-proportion="-24.0" vertical-offset="0" max-vertical-offset="756">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/com_student_list/views/table1form/tmpl/default.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="52" column="21" selection-start="1361" selection-end="1361" vertical-scroll-proportion="57.333332" vertical-offset="2484" max-vertical-offset="3438">
+              <folding>
+                <element signature="e#6#272#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/com_student_list/controllers/form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="5" selection-start="485" selection-end="609" vertical-scroll-proportion="-16.0" vertical-offset="0" max-vertical-offset="630">
+              <folding>
+                <element signature="e#6#272#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -135,7 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/components/com_student_list/controllers/rss.php" />
         <option value="$PROJECT_DIR$/components/com_student_list/controller.php" />
         <option value="$PROJECT_DIR$/components/com_student_list/student_list.php" />
         <option value="$PROJECT_DIR$/components/com_student_list/views/rss/view.xmlіі.php" />
@@ -145,12 +115,13 @@
         <option value="$PROJECT_DIR$/components/com_student_list/views/rss/tmpl/default.php" />
         <option value="$PROJECT_DIR$/administrator/components/com_student_list/models/forms/table1.xml" />
         <option value="$PROJECT_DIR$/components/com_student_list/models/forms/form.xml" />
+        <option value="$PROJECT_DIR$/components/com_student_list/views/form/tmpl/default.xml" />
+        <option value="$PROJECT_DIR$/components/com_student_list/views/table1/tmpl/default.xml" />
         <option value="$PROJECT_DIR$/components/com_student_list/controllers/form.php" />
         <option value="$PROJECT_DIR$/components/com_student_list/models/form.php" />
         <option value="$PROJECT_DIR$/components/com_student_list/views/form/view.html.php" />
-        <option value="$PROJECT_DIR$/components/com_student_list/views/form/tmpl/default.xml" />
         <option value="$PROJECT_DIR$/components/com_student_list/views/form/tmpl/default.php" />
-        <option value="$PROJECT_DIR$/components/com_student_list/views/table1/tmpl/default.xml" />
+        <option value="$PROJECT_DIR$/components/com_student_list/views/table1form/tmpl/default.xml" />
       </list>
     </option>
   </component>
@@ -193,6 +164,182 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="joomla8" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_student_list" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_student_list" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_student_list" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="table1form" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_student_list" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="table1form" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmpl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_student_list" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="form" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_student_list" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="form" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmpl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -248,10 +395,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1430" y="-4" width="1617" height="1055" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19752322" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19752322" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -284,21 +431,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/components/com_student_list/views/table1form/view.html.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="0" selection-start="2700" selection-end="2700" vertical-scroll-proportion="2.0487804" vertical-offset="0" max-vertical-offset="1872" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_student_list/views/table1/view.html.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1944" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_student_list/models/table1form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="41" selection-start="749" selection-end="765" vertical-scroll-proportion="-17.333334" vertical-offset="0" max-vertical-offset="4968" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/administrator/components/com_student_list/views/table1/view.html.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1476" />
@@ -314,18 +446,6 @@
         <state line="21" column="26" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0" vertical-offset="756" max-vertical-offset="1674" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_student_list/views/table1form/tmpl/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="21" selection-start="1361" selection-end="1361" vertical-scroll-proportion="-1.8494624" vertical-offset="2484" max-vertical-offset="3438" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_student_list/views/form/tmpl/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="31" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="1926">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/com_users/views/login/tmpl/default.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="0" selection-start="454" selection-end="454" vertical-scroll-proportion="0.25411764" vertical-offset="0" max-vertical-offset="850" />
@@ -338,44 +458,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_student_list/models/form.php">
+    <entry file="file://$PROJECT_DIR$/components/com_users/views/login/view.html.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="29" selection-start="1269" selection-end="1273" vertical-scroll-proportion="0.0" vertical-offset="496" max-vertical-offset="2394">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_student_list/views/form/view.html.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="0" selection-start="2781" selection-end="2781" vertical-scroll-proportion="0.6630824" vertical-offset="1137" max-vertical-offset="1998">
+        <state line="72" column="36" selection-start="1719" selection-end="1719" vertical-scroll-proportion="0.1556064" vertical-offset="1070" max-vertical-offset="1944">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/com_student_list/views/table1/tmpl/default.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="831" selection-end="831" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_student_list/views/table1form/tmpl/default.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="864">
+        <state line="24" column="0" selection-start="831" selection-end="831" vertical-scroll-proportion="0.47946727" vertical-offset="0" max-vertical-offset="901">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/administrator/components/com_student_list/views/table1/tmpl/edit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="29" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="2304">
+        <state line="11" column="29" selection-start="349" selection-end="349" vertical-scroll-proportion="-0.12543555" vertical-offset="198" max-vertical-offset="2196">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_users/views/login/view.html.php">
+    <entry file="file://$PROJECT_DIR$/components/com_student_list/controllers/rss.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="36" selection-start="1719" selection-end="1719" vertical-scroll-proportion="0.1469534" vertical-offset="1083" max-vertical-offset="1944">
+        <state line="0" column="0" selection-start="0" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="874">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_student_list/models/forms/form.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2466">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_student_list/controllers/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="5" selection-start="485" selection-end="609" vertical-scroll-proportion="-16.0" vertical-offset="0" max-vertical-offset="630">
+          <folding>
+            <element signature="e#6#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_student_list/models/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="5" selection-start="1793" selection-end="1793" vertical-scroll-proportion="-27.703703" vertical-offset="530" max-vertical-offset="1458">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_student_list/views/table1form/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="21" selection-start="1361" selection-end="1361" vertical-scroll-proportion="57.333332" vertical-offset="2484" max-vertical-offset="3438">
+          <folding>
+            <element signature="e#6#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_student_list/views/form/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="1902" selection-end="1902" vertical-scroll-proportion="-24.0" vertical-offset="0" max-vertical-offset="756">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_student_list/views/table1form/tmpl/default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="234">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_student_list/views/form/view.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="816" selection-end="816" vertical-scroll-proportion="0.6590389" vertical-offset="0" max-vertical-offset="874">
           <folding />
         </state>
       </provider>
