@@ -13,7 +13,7 @@ defined('_JEXEC') or die;
 jimport('joomla.application.component.controller');
 
 // Execute the task.
-$controller	= JController::getInstance('Student_list');
+$controller	= JController::getInstance('student_list');
 $controller->execute(JFactory::getApplication()->input->getCmd('task','display'));
 $controller->redirect();
 

@@ -29,7 +29,6 @@ class Student_listViewForm extends JView {
         $this->item = $this->get('Item');
         $this->form	= $this->get('Form');
         $this->loadHelper('student_list');
-        student_listHelper::setDocument('view title', $this->baseurl);
 
         parent::display($tpl);
     }

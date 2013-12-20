@@ -19,16 +19,16 @@ class Student_listModelForm extends JModelForm
 
     private $input;
 
-    public function __construct($config = array())
-    {
-        parent::__construct($config);
-        $this->input = JFactory::getApplication()->input;
-    }
+//    public function __construct($config = array())
+//    {
+//        parent::__construct($config);
+//        $this->input = JFactory::getApplication()->input;
+//    }
 
     public function getForm($data = array(), $loadData = true)
     {
         // Get the form.
-        $form = $this->loadForm('', 'form', array('control' => 'jform', 'load_data' => $loadData));
+        $form = $this->loadForm('com_student_list.form', 'form', array('control' => 'jform', 'load_data' => $loadData));
         if (empty($form)) {
             return false;
         }
@@ -50,14 +50,23 @@ class Student_listModelForm extends JModelForm
     {
         $data = JFactory::getApplication()->getUserState('com_student_list.edit.form.data', array());
 
-        if (empty($data)) {
-            $data = $this->getItem();
-
-        }
+//        if (empty($data)) {
+//            $data = $this->getItem();
+//
+//        }
 
         return $data;
     }
-
+//    public function getItem($pk = null)
+//    {
+//        if ($item = parent::getItem($pk)) {
+//
+//            //Do any procesing on fields here if needed
+//
+//        }
+//
+//        return $item;
+//    }
     /**
      * Method to get a single record.
      *
@@ -68,7 +77,12 @@ class Student_listModelForm extends JModelForm
      */
     public function save($data)
     {
-        return parent::save($data);
+        $table->bind($data);
+        if ($table->store()) {
+            return true;
+        }
+        return false;
+        //return parent::save($data);
     }
 
 

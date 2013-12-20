@@ -14,8 +14,12 @@ jimport('joomla.application.component.controller');
 
 class Student_listController extends JController
 {
-    function display()
+    function display($cachable = false, $urlparams = array())
     {
-        parent::display();
+
+
+        $this->default_view = 'table1';
+
+        parent::display($cachable, $urlparams);
     }
 }

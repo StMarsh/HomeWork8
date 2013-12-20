@@ -9,7 +9,7 @@
 
 defined('_JEXEC') or die;
 
-abstract class Student_listHelper
+class Student_listHelper
 {
 	public static function myFunction()
 	{

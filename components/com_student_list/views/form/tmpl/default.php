@@ -14,7 +14,7 @@ JHtml::_( 'behavior.formvalidation' );
 
 
 <div>
-    <h1></h1>
+    <h1>Додавання нового студента</h1>
     <form action="<?php echo JRoute::_('index.php?view=Form'); ?>" method="post" class="form-validate">
         <ul>
             <li><?php echo $this->form->getLabel('name_lastname'); ?>
@@ -37,7 +37,7 @@ JHtml::_( 'behavior.formvalidation' );
                 <?php echo $this->form->getInput('photo'); ?></li>
         </ul>
 
-        <input type="hidden" name="task" value="Form.save" />
+        <input type="hidden" name="task" value="" />
         <input type="submit" value="Отправить" />
         <?php echo JHtml::_('form.token'); ?>
     </form>
