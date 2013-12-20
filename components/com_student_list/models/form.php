@@ -50,23 +50,9 @@ class Student_listModelForm extends JModelForm
     {
         $data = JFactory::getApplication()->getUserState('com_student_list.edit.form.data', array());
 
-//        if (empty($data)) {
-//            $data = $this->getItem();
-//
-//        }
-
         return $data;
     }
-//    public function getItem($pk = null)
-//    {
-//        if ($item = parent::getItem($pk)) {
-//
-//            //Do any procesing on fields here if needed
-//
-//        }
-//
-//        return $item;
-//    }
+
     /**
      * Method to get a single record.
      *

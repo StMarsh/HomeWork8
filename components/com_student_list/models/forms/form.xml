@@ -6,25 +6,25 @@
                type="text"
                label="COM_STUDENT_LIST_FORM_LBL_TABLE1_NAME_LASTNAME"
                description="COM_STUDENT_LIST_FORM_DESC_TABLE1_NAME_LASTNAME"
+               class="inputbox required"
                required="true"
-               class="name"
                filter="raw" />
 
         <field name="information"
                type="textarea"
                label="COM_STUDENT_LIST_FORM_LBL_TABLE1_INFORMATION"
                description="COM_STUDENT_LIST_FORM_DESC_TABLE1_INFORMATION"
-               cols="100"
+               cols="90"
                rows="8"
                filter="safehtml" />
 
         <field name="birthday"
                type="calendar"
-               class="inputbox"
-               required="true"
+               class="inputbox required validate-birth"
                default="1986-01-01"
                label="COM_STUDENT_LIST_FORM_LBL_TABLE1_BIRTHDAY"
                description="COM_STUDENT_LIST_FORM_DESC_TABLE1_BIRTHDAY"
+               required="true"
                filter="safehtml" />
 
         <field name="gender"
@@ -33,15 +33,16 @@
                description="COM_STUDENT_LIST_FORM_DESC_TABLE1_GENDER"
                default="none"
                required="true"
+               validate="options"
                filter="raw">
-            <option value="none">-</option>
+            <option value=""></option>
             <option value="Чоловіча">Чоловіча</option>
             <option value="Жіноча">Жіноча</option>
         </field>
 
         <field name="filter_gender" type="list" onchange="this.form.submit();">
             <option value="">COM_STUDENT_LIST_LISTS_GENDER_FILTER</option>
-            <option value="none">-</option>
+            <option value=""></option>
             <option value="Чоловіча">Чоловіча</option>
             <option value="Жіноча">Жіноча</option>
         </field>
@@ -50,39 +51,50 @@
                type="text"
                label="COM_STUDENT_LIST_FORM_LBL_TABLE1_GROUP"
                description="COM_STUDENT_LIST_FORM_DESC_TABLE1_GROUP"
+               class="inputbox required"
                required="true"
+               size="40"
                filter="safehtml"/>
 
         <field name="gpa"
                type="text"
-               size="40"
-               class="inputbox"
+               size="6"
+               class="inputbox validate-numeric"
                label="COM_STUDENT_LIST_FORM_LBL_TABLE1_GPA"
                description="COM_STUDENT_LIST_FORM_DESC_TABLE1_GPA"
                filter="safehtml" />
 
         <field name="number_of_academic_records"
                type="text"
-               size="40"
-               class="inputbox"
+               size="10"
+               class="inputbox required validate-numeric"
+               required="true"
                label="COM_STUDENT_LIST_FORM_LBL_TABLE1_NUMBER_OF_ACADEMIC_RECORDS"
                description="COM_STUDENT_LIST_FORM_DESC_TABLE1_NUMBER_OF_ACADEMIC_RECORDS"
-               required="true"
                filter="safehtml" />
 
         <field name="phone_number"
                type="text"
-               size="40"
-               class="inputbox"
+               size="10"
+               class="inputbox validate-numeric"
                label="COM_STUDENT_LIST_FORM_LBL_TABLE1_PHONE_NUMBER"
                description="COM_STUDENT_LIST_FORM_DESC_TABLE1_PHONE_NUMBER"
-               validate="tel"
                filter="safehtml" />
+
+        <field name="email"
+               type="text"
+               class="required validate-email"
+               label="COM_STUDENT_LIST_FORM_LBL_TABLE1_EMAIL"
+               description="COM_STUDENT_LIST_FORM_DESC_TABLE1_EMAIL"
+               filter="safehtml"
+               validate="email"
+               size="30" />
 
         <field name="photo"
                type="media"
                label="COM_STUDENT_LIST_FORM_LBL_TABLE1_PHOTO"
                description="COM_STUDENT_LIST_FORM_DESC_TABLE1_PHOTO"
+               size="40"
                filter="raw"
                directory="St_Photo" />
 
